@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMMusic", "GMMusic\GMMusic.csproj", "{4B1C4D24-7DB9-443E-BE23-744B39FF0F95}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{76F56059-9C16-41E8-9402-DF5DB011DB75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B1C4D24-7DB9-443E-BE23-744B39FF0F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B1C4D24-7DB9-443E-BE23-744B39FF0F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B1C4D24-7DB9-443E-BE23-744B39FF0F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B1C4D24-7DB9-443E-BE23-744B39FF0F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F56059-9C16-41E8-9402-DF5DB011DB75}.Debug|Any CPU.ActiveCfg = Debug
+		{76F56059-9C16-41E8-9402-DF5DB011DB75}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C99D2D2C-8F12-4309-957A-8F188859049D}
+	EndGlobalSection
+EndGlobal
